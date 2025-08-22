@@ -15,6 +15,7 @@ local EnglishToArabic = {
     ["Reach Distance"] = "مسافة الريتش",
     ["Put a number to change the reach range"] = "ضع رقم لتغير مدى الريتش",
     ["Type here!"] = "اكتب هنا!",
+    ["React"] = "ردة فعل",
     ["React 1"] = "ردة فعل 1",
     ["React 2"] = "ردة فعل 2"
 }
@@ -37,6 +38,7 @@ local ArabicToEnglish = {
     ["ضع رقم لتغير مدى الريتش"] = "Put a number to change the reach range",
     ["اكتب هنا!"] = "Type here!",
     ["ردة فعل 1"] = "React 1",
+    ["ردة فعل"] = "React",
     ["ردة فعل 2"] = "React 2"
 }
 
