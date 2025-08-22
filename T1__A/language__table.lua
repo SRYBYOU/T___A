@@ -10,7 +10,10 @@ local EnglishToArabic = {
     ["Join Our Telegram Community"] = "انضم الى مجتمعنا عبر تيلجرام",
     ["Click to Copy"] = "أضغط للنسخ",
     ["Set"] = "تعين",
-    ["Click to apply"] = "أضغط للتطبيق"
+    ["Click to apply"] = "أضغط للتطبيق",
+    ["Reach Distance"] = "مسافة الريتش",
+    ["Put a number to change the reach range"] = "ضع رقم لتغير مدى الريتش",
+    ["Type here!"] = "اكتب هنا!"
 }
 
 local ArabicToEnglish = {
@@ -26,7 +29,10 @@ local ArabicToEnglish = {
     ["انضم الى مجتمعنا عبر تيلجرام"] = "Join Our Telegram Community",
     ["أضغط للنسخ"] = "Click to Copy",
     ["تعين"] = "Set",
-    ["أضغط للتطبيق"] = "Click to apply"
+    ["أضغط للتطبيق"] = "Click to apply",
+    ["مسافة الريتش"] = "Reach Distance",
+    ["ضع رقم لتغير مدى الريتش"] = "Put a number to change the reach range",
+    ["اكتب هنا!"] = "Type here!"
 }
 
 return {
