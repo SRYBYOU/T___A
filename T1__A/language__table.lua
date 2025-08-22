@@ -5,6 +5,7 @@ local EnglishToArabic = {
     ["Reach V1"] = "الريتش V1",
     ["Enable Reach"] = "تفعيل الريتش",
     ["Click to activate the reach"] = "أضغط لتفعيل الريتش",
+    ["Change UI language"] = "تغيير لغة الواجهة",
     ["Language"] = "اللغة",
     ["Welcome :"] = "مرحباً :",
     ["Join Our Telegram Community"] = "انضم الى مجتمعنا عبر تيلجرام",
