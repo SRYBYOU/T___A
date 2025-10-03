@@ -17,7 +17,8 @@ local EnglishToArabic = {
     ["Type here!"] = "اكتب هنا!",
     ["React"] = "ردة فعل",
     ["React 1"] = "ردة فعل 1",
-    ["React 2"] = "ردة فعل 2"
+    ["React 2"] = "ردة فعل 2",
+    ["Disable Minimize Dragging"] = "تعطيل سحب زر التصغير"
 }
 
 local ArabicToEnglish = {
@@ -39,7 +40,8 @@ local ArabicToEnglish = {
     ["اكتب هنا!"] = "Type here!",
     ["ردة فعل 1"] = "React 1",
     ["ردة فعل"] = "React",
-    ["ردة فعل 2"] = "React 2"
+    ["ردة فعل 2"] = "React 2",
+    ["تعطيل سحب زر التصغير"] = "Disable Minimize Dragging"
 }
 
 local EnglishToRussian = {
@@ -61,7 +63,8 @@ local EnglishToRussian = {
     ["Type here!"] = "Введите здесь!",
     ["React"] = "Реакция",
     ["React 1"] = "Реакция 1",
-    ["React 2"] = "Реакция 2"
+    ["React 2"] = "Реакция 2",
+    ["Disable Minimize Dragging"] = "Отключить перетаскивание кнопки"
 }
 
 local RussianToEnglish = {
@@ -83,7 +86,8 @@ local RussianToEnglish = {
     ["Введите здесь!"] = "Type here!",
     ["Реакция"] = "React",
     ["Реакция 1"] = "React 1",
-    ["Реакция 2"] = "React 2"
+    ["Реакция 2"] = "React 2",
+    ["Отключить перетаскивание кнопкиscreen"] = "Disable Minimize Dragging"
 }
 
 local ArabicToRussian = {
@@ -105,7 +109,8 @@ local ArabicToRussian = {
     ["اكتب هنا!"] = "Введите здесь!",
     ["ردة فعل 1"] = "Реакция 1",
     ["ردة فعل"] = "Реакция",
-    ["ردة فعل 2"] = "Реакция 2"
+    ["ردة فعل 2"] = "Реакция 2",
+    ["تعطيل سحب زر التصغير"] = "Отключить перетаскивание кнопки"
 }
 
 local RussianToArabic = {
@@ -127,7 +132,8 @@ local RussianToArabic = {
     ["Введите здесь!"] = "اكتب هنا!",
     ["Реакция 1"] = "ردة فعل 1",
     ["Реакция"] = "ردة فعل",
-    ["Реакция 2"] = "ردة فعل 2"
+    ["Реакция 2"] = "ردة فعل 2",
+    ["Отключить перетаскивание кнопки"] = "تعطيل سحب زر التصغير"
 }
 
 return {
