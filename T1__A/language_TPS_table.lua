@@ -87,7 +87,7 @@ local RussianToEnglish = {
     ["Реакция"] = "React",
     ["Реакция 1"] = "React 1",
     ["Реакция 2"] = "React 2",
-    ["Отключить перетаскивание кнопкиscreen"] = "Disable Minimize Dragging"
+    ["Отключить перетаскивание кнопки"] = "Disable Minimize Dragging"
 }
 
 local ArabicToRussian = {
