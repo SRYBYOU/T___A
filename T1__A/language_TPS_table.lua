@@ -18,7 +18,7 @@ local EnglishToArabic = {
     ["React"] = "ردة فعل",
     ["React 1"] = "ردة فعل 1",
     ["React 2"] = "ردة فعل 2",
-    ["Disable Minimize Dragging"] = "تعطيل سحب زر التصغير"
+    ["Disable Minimize Button Dragging"] = "تعطيل سحب زر التصغير"
 }
 
 local ArabicToEnglish = {
@@ -41,7 +41,7 @@ local ArabicToEnglish = {
     ["ردة فعل 1"] = "React 1",
     ["ردة فعل"] = "React",
     ["ردة فعل 2"] = "React 2",
-    ["تعطيل سحب زر التصغير"] = "Disable Minimize Dragging"
+    ["تعطيل سحب زر التصغير"] = "Disable Minimize Button Dragging"
 }
 
 local EnglishToRussian = {
@@ -64,7 +64,7 @@ local EnglishToRussian = {
     ["React"] = "Реакция",
     ["React 1"] = "Реакция 1",
     ["React 2"] = "Реакция 2",
-    ["Disable Minimize Dragging"] = "Отключить перетаскивание кнопки"
+    ["Disable Minimize Button Dragging"] = "Отключить перетаскивание кнопки"
 }
 
 local RussianToEnglish = {
@@ -87,7 +87,7 @@ local RussianToEnglish = {
     ["Реакция"] = "React",
     ["Реакция 1"] = "React 1",
     ["Реакция 2"] = "React 2",
-    ["Отключить перетаскивание кнопки"] = "Disable Minimize Dragging"
+    ["Отключить перетаскивание кнопки"] = "Disable Minimize Button Dragging"
 }
 
 local ArabicToRussian = {
