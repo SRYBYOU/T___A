@@ -19,8 +19,8 @@ local EnglishToArabic = {
     ["React 1"] = "ردة فعل 1",
     ["React 2"] = "ردة فعل 2",
     ["Disable Minimize Button Dragging"] = "تعطيل سحب زر التصغير",
-    ["Theme"] = "الثيم",
-    ["Themes"] = "الثيمات"
+    ["UI Themes"] = "ثيمات واجهة المستخدم",
+    ["Change UI Theme"] = "تغير ثيم واجهة المستخدم"
 }
 
 local ArabicToEnglish = {
@@ -44,8 +44,8 @@ local ArabicToEnglish = {
     ["ردة فعل"] = "React",
     ["ردة فعل 2"] = "React 2",
     ["تعطيل سحب زر التصغير"] = "Disable Minimize Button Dragging",
-    ["الثيم"] = "Theme",
-    ["الثيمات"] = "Themes"
+    ["ثيمات واجهة المستخدم"] = "UI Themes",
+    ["تغير ثيم واجهة المستخدم"] = "Change UI Theme"
 }
 local EnglishToRussian = {
     ["Home"] = "Главная",
@@ -68,8 +68,8 @@ local EnglishToRussian = {
     ["React 1"] = "Реакция 1",
     ["React 2"] = "Реакция 2",
     ["Disable Minimize Button Dragging"] = "Отключить перетаскивание кнопки",
-    ["Theme"] = "Тема",
-    ["Themes"] = "Темы"
+    ["UI Themes"] = "ТПИ",
+    ["Change UI Theme"] = "Смена темы пользовательского интерфейса"
 }
 
 local RussianToEnglish = {
@@ -93,8 +93,8 @@ local RussianToEnglish = {
     ["Реакция 1"] = "React 1",
     ["Реакция 2"] = "React 2",
     ["Отключить перетаскивание кнопки"] = "Disable Minimize Button Dragging",
-    ["Тема"] = "Theme",
-    ["Темы"] = "Themes"
+    ["ТПИ"] = "UI Themes",
+    ["Смена темы пользовательского интерфейса"] = "Change UI Theme"
 }
 
 local ArabicToRussian = {
@@ -118,8 +118,8 @@ local ArabicToRussian = {
     ["ردة فعل"] = "Реакция",
     ["ردة فعل 2"] = "Реакция 2",
     ["تعطيل سحب زر التصغير"] = "Отключить перетаскивание кнопки",
-    ["الثيم"] = "Тема",
-    ["الثيمات"] = "Темы"
+    ["ثيمات واجهة المستخدم"] = "ТПИ",
+    ["تغير ثيم واجهة المستخدم"] = "Смена темы пользовательского интерфейса"
 }
 
 local RussianToArabic = {
@@ -143,8 +143,8 @@ local RussianToArabic = {
     ["Реакция"] = "ردة فعل",
     ["Реакция 2"] = "ردة فعل 2",
     ["Отключить перетаскивание кнопки"] = "تعطيل سحب زر التصغير",
-    ["Тема"] = "الثيم",
-    ["Темы"] = "الثيمات"
+    ["ТПИ"] = "ثيمات واجهة المستخدم",
+    ["Смена темы пользовательского интерфейса"] = "تغير ثيم واجهة المستخدم"
 }
 
 return {
