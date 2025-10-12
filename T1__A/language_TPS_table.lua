@@ -46,7 +46,7 @@ local ArabicToEnglish = {
     ["تعطيل سحب زر التصغير"] = "Disable Minimize Button Dragging",
     ["الثيم"] = "Theme",
     ["الثيمات"] = "Themes"
-
+}
 local EnglishToRussian = {
     ["Home"] = "Главная",
     ["Main"] = "Основная",
@@ -154,4 +154,4 @@ return {
     RussianToEnglish = RussianToEnglish,
     ArabicToRussian = ArabicToRussian,
     RussianToArabic = RussianToArabic
-    }
+}
