@@ -18,7 +18,9 @@ local EnglishToArabic = {
     ["React"] = "ردة فعل",
     ["React 1"] = "ردة فعل 1",
     ["React 2"] = "ردة فعل 2",
-    ["Disable Minimize Button Dragging"] = "تعطيل سحب زر التصغير"
+    ["Disable Minimize Button Dragging"] = "تعطيل سحب زر التصغير",
+    ["Theme"] = "الثيم",
+    ["Themes"] = "الثيمات"
 }
 
 local ArabicToEnglish = {
@@ -41,8 +43,9 @@ local ArabicToEnglish = {
     ["ردة فعل 1"] = "React 1",
     ["ردة فعل"] = "React",
     ["ردة فعل 2"] = "React 2",
-    ["تعطيل سحب زر التصغير"] = "Disable Minimize Button Dragging"
-}
+    ["تعطيل سحب زر التصغير"] = "Disable Minimize Button Dragging",
+    ["الثيم"] = "Theme",
+    ["الثيمات"] = "Themes"
 
 local EnglishToRussian = {
     ["Home"] = "Главная",
@@ -64,7 +67,9 @@ local EnglishToRussian = {
     ["React"] = "Реакция",
     ["React 1"] = "Реакция 1",
     ["React 2"] = "Реакция 2",
-    ["Disable Minimize Button Dragging"] = "Отключить перетаскивание кнопки"
+    ["Disable Minimize Button Dragging"] = "Отключить перетаскивание кнопки",
+    ["Theme"] = "Тема",
+    ["Themes"] = "Темы"
 }
 
 local RussianToEnglish = {
@@ -87,7 +92,9 @@ local RussianToEnglish = {
     ["Реакция"] = "React",
     ["Реакция 1"] = "React 1",
     ["Реакция 2"] = "React 2",
-    ["Отключить перетаскивание кнопки"] = "Disable Minimize Button Dragging"
+    ["Отключить перетаскивание кнопки"] = "Disable Minimize Button Dragging",
+    ["Тема"] = "Theme",
+    ["Темы"] = "Themes"
 }
 
 local ArabicToRussian = {
@@ -111,6 +118,8 @@ local ArabicToRussian = {
     ["ردة فعل"] = "Реакция",
     ["ردة فعل 2"] = "Реакция 2",
     ["تعطيل سحب زر التصغير"] = "Отключить перетаскивание кнопки"
+    ["الثيم"] = "Тема",
+    ["الثيمات"] = "Темы"
 }
 
 local RussianToArabic = {
@@ -133,7 +142,9 @@ local RussianToArabic = {
     ["Реакция 1"] = "ردة فعل 1",
     ["Реакция"] = "ردة فعل",
     ["Реакция 2"] = "ردة فعل 2",
-    ["Отключить перетаскивание кнопки"] = "تعطيل سحب زر التصغير"
+    ["Отключить перетаскивание кнопки"] = "تعطيل سحب زر التصغير",
+    ["Тема"] = "الثيم",
+    ["Темы"] = "الثيمات"
 }
 
 return {
@@ -143,4 +154,4 @@ return {
     RussianToEnglish = RussianToEnglish,
     ArabicToRussian = ArabicToRussian,
     RussianToArabic = RussianToArabic
-}
+    }
